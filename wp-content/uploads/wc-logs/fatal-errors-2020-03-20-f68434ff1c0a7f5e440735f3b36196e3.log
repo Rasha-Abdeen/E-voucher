@@ -1,0 +1,126 @@
+2020-03-20T13:24:55+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 30
+
+2020-03-20T13:25:18+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 30
+
+2020-03-20T14:14:02+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 34
+
+2020-03-20T14:14:31+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 34
+
+2020-03-20T14:14:55+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 34
+
+2020-03-20T14:32:16+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_User as array in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php:41
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 41
+
+2020-03-20T14:33:48+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_User as array in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php:41
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 41
+
+2020-03-20T14:34:19+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_User as array in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php:41
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 41
+
+2020-03-20T14:34:21+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_User as array in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php:41
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 41
+
+2020-03-20T14:35:33+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_User as array in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php:33
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 33
+
+2020-03-20T14:37:11+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_User as array in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php:33
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 33
+
+2020-03-20T15:03:53+00:00 CRITICAL syntax error, unexpected '|' in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 47
+
+2020-03-20T15:05:50+00:00 CRITICAL syntax error, unexpected '|' in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 43
+
+2020-03-20T15:08:17+00:00 CRITICAL syntax error, unexpected '')</option>'' (T_CONSTANT_ENCAPSED_STRING) in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 28
+
+2020-03-20T15:16:55+00:00 CRITICAL syntax error, unexpected 'foreach' (T_FOREACH) in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 28
+
+2020-03-20T15:18:02+00:00 CRITICAL syntax error, unexpected 'foreach' (T_FOREACH) in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 28
+
+2020-03-20T15:20:48+00:00 CRITICAL Cannot use [] for reading in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 32
+
+2020-03-20T15:35:14+00:00 CRITICAL syntax error, unexpected 'foreach' (T_FOREACH) in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 34
+
+2020-03-20T15:44:03+00:00 CRITICAL Uncaught Error: Class name must be a valid object or a string in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php:39
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 39
+
+2020-03-20T21:29:31+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\themes\flatsome/Wallet.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 28
+
+2020-03-20T21:30:39+00:00 CRITICAL syntax error, unexpected '(', expecting variable (T_VARIABLE) or '{' or '$' in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 36
+
+2020-03-20T21:31:11+00:00 CRITICAL syntax error, unexpected '(', expecting variable (T_VARIABLE) or '{' or '$' in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 36
+
+2020-03-20T21:33:18+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\themes\flatsome/Wallet.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 28
+
+2020-03-20T21:36:44+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\themes\flatsome/Wallet.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 28
+
+2020-03-20T21:39:56+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\themes\flatsomeC:\xampp\htdocs\wordpress\wp-content\plugins\FS_WooCommerce_Wallet\includes\pages\Wallet.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 28
+
+2020-03-20T21:44:27+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\themes\flatsome../../plugins/FS_WooCommerce_Wallet/includes/pages/Wallet.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 28
+
+2020-03-20T21:45:31+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\themes\flatsome/Wallet.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 28
+
+2020-03-20T21:54:34+00:00 CRITICAL require_once(): Failed opening required 'wp-content/plugins/FS_WooCommerce_Wallet/incluses/pages/Wallet.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 28
+
+2020-03-20T21:54:51+00:00 CRITICAL require_once(): Failed opening required 'wp-content/plugins/FS_WooCommerce_Wallet/incluses/pages/Wallet.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 28
+
+2020-03-20T22:01:10+00:00 CRITICAL require_once(): Failed opening required 'C:/xampp/htdocs/wordpress/wp-content/plugins/FS_WooCommerce_Wallet/includes/pages/Wallet.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 28
+
+2020-03-20T22:07:32+00:00 CRITICAL Uncaught Error: Class name must be a valid object or a string in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php:40
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 40
+
+2020-03-20T22:24:24+00:00 CRITICAL syntax error, unexpected 'col' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 30
+
+2020-03-20T22:25:30+00:00 CRITICAL syntax error, unexpected '&' in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 44
+
+2020-03-20T22:26:59+00:00 CRITICAL syntax error, unexpected 'odd' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 41
+
+2020-03-20T22:30:48+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 26
+
+2020-03-20T22:33:44+00:00 CRITICAL syntax error, unexpected 'customers' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 31
+
+2020-03-20T22:42:14+00:00 CRITICAL syntax error, unexpected 'border' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 32
+
+2020-03-20T22:43:26+00:00 CRITICAL syntax error, unexpected '7' (T_LNUMBER), expecting ',' or ';' in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 32
+
+2020-03-20T22:43:39+00:00 CRITICAL syntax error, unexpected '7' (T_LNUMBER), expecting ',' or ';' in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-test.php on line 32
+

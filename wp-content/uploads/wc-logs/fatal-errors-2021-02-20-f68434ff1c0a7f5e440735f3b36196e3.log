@@ -1,0 +1,14 @@
+2021-02-20T09:41:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Voucher\wp-includes\Requests\Transport\cURL.php on line 441
+
+2021-02-20T09:43:59+00:00 CRITICAL require_once(): Failed opening required 'rms-script-ini.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Voucher\wp-content\plugins\FS_WooCommerce_Wallet\main.php on line 10
+
+2021-02-20T09:44:01+00:00 CRITICAL require_once(): Failed opening required 'rms-script-ini.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Voucher\wp-content\plugins\FS_WooCommerce_Wallet\main.php on line 10
+
+2021-02-20T09:44:01+00:00 CRITICAL require_once(): Failed opening required 'rms-script-ini.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Voucher\wp-content\plugins\FS_WooCommerce_Wallet\main.php on line 10
+
+2021-02-20T09:44:29+00:00 CRITICAL require_once(): Failed opening required 'rms-script-ini.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Voucher\wp-content\plugins\FS_WooCommerce_Wallet\main.php on line 10
+
+2021-02-20T09:44:31+00:00 CRITICAL require_once(): Failed opening required 'rms-script-ini.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Voucher\wp-content\plugins\FS_WooCommerce_Wallet\main.php on line 10
+
+2021-02-20T09:44:31+00:00 CRITICAL require_once(): Failed opening required 'rms-script-ini.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Voucher\wp-content\plugins\FS_WooCommerce_Wallet\main.php on line 10
+

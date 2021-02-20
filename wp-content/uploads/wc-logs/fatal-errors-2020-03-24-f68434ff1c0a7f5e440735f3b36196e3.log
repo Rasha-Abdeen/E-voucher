@@ -1,0 +1,90 @@
+2020-03-24T21:02:16+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php-code-snippet/Wallet.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(65) : eval()'d code on line 39
+
+2020-03-24T21:02:38+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php-code-snippet/Wallet.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(65) : eval()'d code on line 39
+
+2020-03-24T21:07:25+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php-code-snippet/Wallet.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(65) : eval()'d code on line 39
+
+2020-03-24T21:07:39+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php-code-snippet/Wallet.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(65) : eval()'d code on line 39
+
+2020-03-24T21:08:53+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php-code-snippet/Wallet.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(65) : eval()'d code on line 39
+
+2020-03-24T21:09:29+00:00 CRITICAL Cannot declare class Wallet, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\Wallet.php on line 3
+
+2020-03-24T21:15:27+00:00 CRITICAL Cannot redeclare get_body_class() (previously declared in C:\xampp\htdocs\wordpress\wp-includes\post-template.php:604) in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-branch-test.php on line 6
+
+2020-03-24T21:23:00+00:00 CRITICAL syntax error, unexpected '<' in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-branch-test.php on line 7
+
+2020-03-24T21:23:55+00:00 CRITICAL syntax error, unexpected '<' in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-branch-test.php on line 7
+
+2020-03-24T21:24:46+00:00 CRITICAL Cannot declare class Wallet, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\Wallet.php on line 3
+
+2020-03-24T21:38:08+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-branch-test.php on line 59
+
+2020-03-24T21:38:20+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-branch-test.php on line 59
+
+2020-03-24T21:38:21+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-branch-test.php on line 59
+
+2020-03-24T21:38:22+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-branch-test.php on line 59
+
+2020-03-24T21:38:25+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-branch-test.php on line 59
+
+2020-03-24T21:40:33+00:00 CRITICAL Cannot declare class Wallet, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\Wallet.php on line 3
+
+2020-03-24T21:41:03+00:00 CRITICAL Cannot declare class Wallet, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\Wallet.php on line 3
+
+2020-03-24T21:42:49+00:00 CRITICAL Cannot declare class Wallet, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\Wallet.php on line 3
+
+2020-03-24T21:43:37+00:00 CRITICAL Cannot declare class Wallet, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\Wallet.php on line 3
+
+2020-03-24T21:43:39+00:00 CRITICAL Cannot declare class Wallet, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\Wallet.php on line 3
+
+2020-03-24T21:45:45+00:00 CRITICAL Cannot declare class Wallet, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\Wallet.php on line 3
+
+2020-03-24T21:50:47+00:00 CRITICAL syntax error, unexpected 'wp' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-branch-test.php on line 32
+
+2020-03-24T21:51:19+00:00 CRITICAL Cannot declare class Wallet, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\Wallet.php on line 3
+
+2020-03-24T21:56:10+00:00 CRITICAL Cannot declare class Wallet, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\Wallet.php on line 3
+
+2020-03-24T21:56:21+00:00 CRITICAL Cannot declare class Wallet, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\Wallet.php on line 3
+
+2020-03-24T21:57:37+00:00 CRITICAL Cannot declare class Wallet, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\Wallet.php on line 3
+
+2020-03-24T21:58:10+00:00 CRITICAL Cannot declare class Wallet, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\Wallet.php on line 3
+
+2020-03-24T21:59:16+00:00 CRITICAL Cannot declare class Wallet, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\Wallet.php on line 3
+
+2020-03-24T21:59:52+00:00 CRITICAL Cannot declare class Wallet, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\Wallet.php on line 3
+
+2020-03-24T22:07:27+00:00 CRITICAL Cannot declare class Wallet, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\Wallet.php on line 3
+
+2020-03-24T22:09:02+00:00 CRITICAL Cannot declare class Wallet, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\Wallet.php on line 3
+
+2020-03-24T22:15:10+00:00 CRITICAL Cannot declare class Wallet, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\Wallet.php on line 3
+
+2020-03-24T22:16:38+00:00 CRITICAL Cannot declare class Wallet, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\Wallet.php on line 3
+
+2020-03-24T22:18:47+00:00 CRITICAL syntax error, unexpected '"</td>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-branch-test.php on line 46
+
+2020-03-24T22:19:37+00:00 CRITICAL Cannot declare class Wallet, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\Wallet.php on line 3
+
+2020-03-24T22:20:16+00:00 CRITICAL Cannot declare class Wallet, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\Wallet.php on line 3
+
+2020-03-24T22:26:52+00:00 CRITICAL Cannot declare class Wallet, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\Wallet.php on line 3
+
+2020-03-24T22:29:02+00:00 CRITICAL Cannot declare class Wallet, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\Wallet.php on line 3
+
+2020-03-24T22:32:27+00:00 CRITICAL Object of class WP_User_Query could not be converted to string in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\page-branch-test.php on line 29
+
+2020-03-24T22:35:11+00:00 CRITICAL Cannot declare class Wallet, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\Wallet.php on line 3
+
+2020-03-24T22:35:28+00:00 CRITICAL Cannot declare class Wallet, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\Wallet.php on line 3
+
+2020-03-24T22:42:39+00:00 CRITICAL Cannot declare class Wallet, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\Wallet.php on line 3
+
+2020-03-24T22:42:53+00:00 CRITICAL Cannot declare class Wallet, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\Wallet.php on line 3
+
+2020-03-24T22:43:18+00:00 CRITICAL Cannot declare class Wallet, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\Wallet.php on line 3
+
+2020-03-24T22:43:27+00:00 CRITICAL Cannot declare class Wallet, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\themes\flatsome\Wallet.php on line 3
+

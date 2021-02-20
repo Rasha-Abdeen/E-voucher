@@ -1,0 +1,33 @@
+{
+  "name": "weglot/translate-wordpress",
+  "description": "Translate your WordPress website easily.",
+  "type": "project",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Thomas DENEULIN",
+      "email": "thomas@weglot.com"
+    },
+    {
+      "name": "Remy BERDA",
+      "email": "remy@weglot.com"
+    }
+  ],
+  "require": {
+    "weglot/weglot-php": "^1.0",
+    "gmulti/morphism-php": "^0.3.0"
+  },
+  "require-dev": {
+    "squizlabs/php_codesniffer": "*",
+    "wp-coding-standards/wpcs": "^0.13.1",
+    "phpunit/phpunit": "^4  || ^6"
+},
+"scripts": {
+    "post-install-cmd": [
+        "\"vendor/bin/phpcs\" --config-set installed_paths vendor/wp-coding-standards/wpcs"
+    ],
+    "post-update-cmd": [
+        "\"vendor/bin/phpcs\" --config-set installed_paths vendor/wp-coding-standards/wpcs"
+    ]
+}
+}

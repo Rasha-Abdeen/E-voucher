@@ -1,0 +1,43 @@
+.variable-product-serial-number-wrapper {
+    max-width:800px;
+    margin-left:30px;
+    background:#ddd;
+    border:1px solid #bbb;
+    margin:20px;
+    padding:10px;
+}
+
+.product-serial-number-wrapper {
+    max-width:800px;
+    margin-left:30px;
+    background:white;
+    border:1px solid gray;
+    margin:20px;
+    padding:10px;
+}
+
+.serial-numbers br {
+    display:none;
+}
+
+#woocommerce-product-data .product-serial-number-wrapper input[type=submit] {
+    display:none;
+}
+
+.product-serial-number-wrapper label {
+    margin-left:0;
+    float:none;
+}
+
+.product-serial-number-wrapper input {
+    float:none;
+}
+
+.remove-serial-number, .product-serial-number-wrapper .remove-serial-number {
+    float:none;
+    margin-left:10px;
+}
+
+#serial_numbers_data.woocommerce_options_panel input[type=text] {
+    float:none;
+}

@@ -1,0 +1,28 @@
+2020-03-26T07:07:43+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php-code-snippet/Wallet.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(65) : eval()'d code on line 39
+
+2020-03-26T07:18:21+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php-code-snippet/Wallet.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(65) : eval()'d code on line 39
+
+2020-03-26T09:27:59+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php\includes\shortcodes/Wallet.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php\includes\shortcodes\shortcode-php.php(52) : eval()'d code on line 23
+
+2020-03-26T09:35:43+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php\includes\shortcodes/Wallet.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php\includes\shortcodes\shortcode-php.php(52) : eval()'d code on line 23
+
+2020-03-26T09:36:01+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php\includes\shortcodes/Wallet.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php\includes\shortcodes\shortcode-php.php(52) : eval()'d code on line 23
+
+2020-03-26T09:37:55+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php\includes\shortcodes/Wallet.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php\includes\shortcodes\shortcode-php.php(52) : eval()'d code on line 24
+
+2020-03-26T09:38:01+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php\includes\shortcodes/Wallet.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php\includes\shortcodes\shortcode-php.php(52) : eval()'d code on line 24
+
+2020-03-26T09:39:29+00:00 CRITICAL Object of class WP_User could not be converted to string in C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php\includes\shortcodes\shortcode-php.php(52) : eval()'d code on line 4
+
+2020-03-26T09:45:36+00:00 CRITICAL Object of class WP_User could not be converted to string in C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php\includes\shortcodes\shortcode-php.php(52) : eval()'d code on line 4
+
+2020-03-26T09:46:55+00:00 CRITICAL Object of class WP_User could not be converted to string in C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php\includes\shortcodes\shortcode-php.php(52) : eval()'d code on line 4
+
+2020-03-26T09:51:48+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php\includes\shortcodes/Wallet.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php\includes\shortcodes\shortcode-php.php(52) : eval()'d code on line 27
+
+2020-03-26T09:51:56+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php\includes\shortcodes/Wallet.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php\includes\shortcodes\shortcode-php.php(52) : eval()'d code on line 27
+
+2020-03-26T09:52:58+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php\includes\shortcodes/Wallet.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php\includes\shortcodes\shortcode-php.php(52) : eval()'d code on line 27
+
+2020-03-26T09:53:03+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php\includes\shortcodes/Wallet.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\insert-php\includes\shortcodes\shortcode-php.php(52) : eval()'d code on line 27
+
